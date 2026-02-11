@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+
+.breadcrumb-container {
+    @apply flex justify-between items-center
+}
